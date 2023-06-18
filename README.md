@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://github.com/HarryNguyen2023" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/gia-nguyen-6b89ab273/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="gianguyenlamvinh2002@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/HarryNguyen2023" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/gia-nguyen-6b89ab273/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="gianguyenlamvinh2002@gmail.com"> <img src="https://img.icons8.com/?size=512&id=ho8QlOYvMuG3&format=png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 

@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ I'm currently working as a robotics control software intern at Emage Developement.Ltd
-- 🌱 I'm currently studying about robotics dynamic & control.
+- ⚡ I'm currently doing capstone project about mobile manipulator system in warehouse.
+- 🌱 I'm currently studying about robotics dynamic & control, and signal processing in robotics.
 
 ## ✉️ Find me on:
 

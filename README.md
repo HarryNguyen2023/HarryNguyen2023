@@ -1,5 +1,5 @@
 ## Hi there my Vietnamese name is Nguyễn Lâm Vĩnh Gia but you can call me Harry Nguyen 👋
-### 🎓 I'm currently a Robotics-Mechatronics student at Ho Chi Minh University of Technology
+### 🎓 I'm just started my career as an Embedded Software Engineer
 <!--
 **HarryNguyen2023/HarryNguyen2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ I'm currently doing capstone project about mobile manipulator system in warehouse.
-- 🌱 I'm currently studying about robotics dynamic & control, and signal processing in robotics.
+- ⚡ I'm currently researching of wireless communication protocol.
+- 🌱 I'm also continuing to study on control systems and signal processing.
 
 ## ✉️ Find me on:
 

@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ I'm currently researching of wireless communication protocols.
-- 🌱 I'm also continuing to study on control systems and signal processing.
+- ⚡ I'm currently working on network transport devices such as routers and switches.
+- 🌱 I'm also continuing to study on control systems and robotics.
 
 ## ✉️ Find me on:
 

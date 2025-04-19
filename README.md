@@ -1,5 +1,5 @@
 ## Hi there my Vietnamese name is Nguyễn Lâm Vĩnh Gia but you can call me Harry Nguyen 👋
-### 🎓 I'm just started my career as an Embedded Software Engineer
+### 🎓 I'm just started my career as an Embedded Software Engineer at Viettel High Technology
 <!--
 **HarryNguyen2023/HarryNguyen2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ I'm currently working on network transport devices such as routers and switches.
+- ⚡ I'm currently working on networking layer devices such as site routers and switches used for 5G system.
 - 🌱 I'm also continuing to study on control systems and robotics.
 
 ## ✉️ Find me on:

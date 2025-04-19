@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ I'm currently working on networking layer devices such as site routers and switches used for 5G system.
-- 🌱 I'm also continuing to study on control systems and robotics.
+- ⚡ I'm currently working on networking layer devices such as site routers and switches used for 5G system using Linux.
+- 🌱 I'm also continuing to study on control systems and robotics, the field in which I'm always fascinating about.
 
 ## ✉️ Find me on:
 
